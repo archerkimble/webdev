@@ -1,0 +1,215 @@
+body {
+    background-color: purple;
+}
+#japan {
+    display: grid;
+   grid-template-columns:repeat(3, 1fr);
+   grid-template-rows: (3, 1fr);
+   height: 300px;
+   width: 400px
+}
+
+#white {
+    background-color: white;
+    grid-column: 1 / 4;
+    grid-row:  1/ 4;
+}
+
+#red {
+    background-color: red;
+    border-radius: 50%;
+    grid-column: 2 / 3;
+    grid-row: 2 / 3;
+}
+
+#italy {
+    display: grid;
+    grid-template-columns:repeat(3, 1fr);
+    grid-template-rows: (3, 1fr);
+    height: 300px;
+    width: 400px;
+}
+
+#red2 {
+    background-color: red;
+    grid-column: 1 / 1;
+    grid-row: 1 / 4;
+}
+
+#white2 {
+    background-color: white;
+    grid-column: 2 / 2;
+    grid-row: 1 / 4;
+}
+
+#green2 {
+    background-color: green;
+    grid-column: 3 / 3;
+    grid-row: 1 / 4;
+}
+
+#germany {
+    display: grid;
+    grid-template-columns:repeat(3, 1fr);
+    grid-template-rows: (3, 1fr);
+    height: 300px;
+    width: 400px;
+}
+
+#black3 {
+    background-color: black;
+    grid-column: 1 / 4;
+    grid-row: 1 / 1;
+}
+
+#red3 {
+    background-color: red;
+    grid-column: 1 / 4;
+    grid-row: 2 / 2;
+}
+
+#yellow3 {
+    background-color: yellow;
+    grid-column: 1 / 4;
+    grid-row: 3 / 3;
+}
+
+#belgium {
+    display: grid;
+    grid-template-columns:repeat(3, 1fr);
+    grid-template-rows: (3, 1fr);
+    height: 300px;
+    width: 400px;
+}
+
+#black4 {
+    background-color: black;
+    grid-column: 1 / 1;
+    grid-row: 1 / 4;
+}
+
+#yellow4 {
+    background-color: yellow;
+    grid-column: 2 / 2;
+    grid-row: 1 / 4;
+}
+
+#red4 {
+    background-color: red;
+    grid-column: 3 / 3;
+    grid-row: 1 / 4;
+}
+
+#thai {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 50px 50px 100px 50px 50px;
+    height: 300px;
+    width: 400px;
+}
+
+#redtop {
+    background-color: crimson;
+    grid-row: 1 / 2;
+}
+
+#whitetop {
+    background-color: white;
+    grid-row: 2 / 3;
+}
+
+#blue {
+    background-color: blue;
+    grid-row: 3 / 4;
+}
+
+#whitelow {
+    background-color: white;
+    grid-row: 4 / 5;
+}
+
+#redlow {
+    background-color: crimson;
+    grid-row: 5 / 6;
+}
+
+#swiss {
+    height: 300px;
+    width: 300px;
+    display: grid;
+    background: red;
+    grid-template-columns: repeat(5, 2fr);
+    grid-template-rows: repeat(5, 2fr);
+}
+
+#white8 {
+    background-color: white;
+    grid-column: 3 / 4;
+    grid-row: 2 / 5;
+
+}
+
+#white7 {
+    background-color: white;
+    grid-column: 2 / 5;
+    grid-row: 3 / 4;
+}   
+
+#uae {
+    display: grid;
+    grid-template-columns:repeat(3, 1fr);
+    grid-template-rows: (3, 1fr);
+    height: 300px;
+    width: 400px;
+}
+
+#reduae {
+    background-color: red;
+    grid-column: 1 / 1;
+    grid-row: 1 / 4;
+}
+
+#greenuae {
+    background-color: green;
+    grid-column: 2 / 5;
+    grid-row: 1 / 2;
+}
+
+#whiteuae {
+    background-color: white;
+    grid-column: 2 / 5;
+    grid-row: 2 / 3;
+}
+
+#blackuae {
+    background-color: black;
+    grid-column: 2 / 5;
+    grid-row: 3 / 4;
+}
+
+#sweden {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+   height: 300px;
+   width: 400px
+}
+
+
+#blues {
+    grid-column: 1 / -1;
+    grid-row: 1 / -1;
+    background-color: blue;
+}
+
+#yellow15 {
+    grid-column: 1 / -1;
+    grid-row: 3 / 4;
+    background-color: rgb(255, 255, 0);
+}
+
+#yellows {
+    grid-column: 3 / 4;
+    grid-row: 1 / -1;
+    background-color: yellow;
+}

@@ -1,0 +1,20 @@
+#color {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+}
+
+div {
+    border: 1px solid black;
+    width: 200px;
+    height: 100px;
+    overflow: scroll;
+  }
+
+
+.droptarget {
+    width: 100px; 
+    height: 35px;
+    padding: 10px;
+    border: 1px solid black;
+  }
