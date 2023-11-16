@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     margin: 200px;
     background-color: gold;
@@ -52,4 +53,52 @@ body {
     border-left: 60px solid transparent;
     border-right: 60px solid transparent;
     border-bottom: 70px solid black;
+=======
+body {
+    margin: 200px;
+    background-color: gold;
+}
+
+
+#square {
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    border: solid 5px black;
+}
+
+#rectangle {
+    height: 100px;
+    width: 150px;
+    background-color: blue;
+    border: solid 5px black;
+}
+
+#circle {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+    border-color: black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+#oval {
+    height: 50px;
+  width: 100px;
+  background-color: orange;
+  border-radius: 50%;
+  border-color: black;
+}
+
+#triangle {
+    width: 0;
+    height: 0;
+    border-left: 60px solid transparent;
+    border-right: 60px solid transparent;
+    border-bottom: 70px solid white;
+>>>>>>> f40d41757d7f8e0c35f5ffd5582c60b22849e79e
 }
