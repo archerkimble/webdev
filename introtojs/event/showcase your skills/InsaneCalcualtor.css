@@ -1,0 +1,55 @@
+body {
+    background-color: #DAE2DF;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#h {
+    color: #F15025;
+}
+
+#numbera {
+ color: #28AFB0;
+}
+
+#numbers {
+    color: #28AFB0;
+}
+
+#numberm {
+    color: #28AFB0;
+}
+
+#numberd {
+    color: #28AFB0;
+}
+
+footer {
+    color: #F15025;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;   
+    align-items: center; 
+}
+
+#footer-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 14px;
+}
+
+.line-up {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+p {
+    font-size: 24px;
+}
+
+h1 {
+    text-align: center;
+}
