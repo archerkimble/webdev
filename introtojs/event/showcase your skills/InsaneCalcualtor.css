@@ -4,27 +4,27 @@ body {
 }
 
 #h {
-    color: #F15025;
+    color: #00A5CF;
 }
 
 #numbera {
- color: #28AFB0;
+ color: #7D5BA6;
 }
 
 #numbers {
-    color: #28AFB0;
+    color: #7D5BA6;
 }
 
 #numberm {
-    color: #28AFB0;
+    color: #7D5BA6;
 }
 
 #numberd {
-    color: #28AFB0;
+    color: #7D5BA6;
 }
 
 footer {
-    color: #F15025;
+    color: #00A5CF;
     margin-top: 30px;
     display: flex;
     justify-content: center;   
@@ -52,4 +52,20 @@ p {
 
 h1 {
     text-align: center;
+}
+
+#totala {
+    color: #7D5BA6;
+}
+
+#totals {
+    color: #7D5BA6;
+}
+
+#totalm {
+    color: #7D5BA6;
+}
+
+#totald {
+    color: #7D5BA6;
 }
